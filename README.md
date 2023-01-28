@@ -22,3 +22,4 @@ Awesome projects by [Seam](https://seam.co) or Seam Engineers.
 ## Seam Engineers
 
 * [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface ([@seveibar](https://github.com/seveibar))
+* [makenew](https://github.com/makenew) - Tested project skeletons to instantly bootstrap and reliably maintain your next project. ([@razor-x](https://github.com/razor-x))
